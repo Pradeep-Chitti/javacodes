@@ -1,0 +1,8 @@
+package com.chitti;
+
+public class AutoBoxing {
+int i=20;
+System.out.println(i);
+Integer i1=i; //autoboxing
+
+}
